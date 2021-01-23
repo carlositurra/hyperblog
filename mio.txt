@@ -3,3 +3,5 @@ Este es mi intento propio de la historia.
 esta wea me tiene entero nervioso.
 
 lo bueno es que ya van dos commit que me salen limpios con este archivo.
+
+con este ultimo dare por terminado el archivo.
